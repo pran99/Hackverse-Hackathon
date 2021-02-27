@@ -1,5 +1,7 @@
 # PharmaCat
 
+* Run on Python 3.5
+
 The PharmaCat Project is divided into **2 sections**:
 
 *To setup the Web Application along with API server do:*

@@ -1,12 +1,6 @@
 # PharmaCat
 
-![logo](https://i.imgur.com/zko8kft.jpg "PharmaCat logo was created by Prince Singh and Banner created by Apratim Shukla")
-
-
 The PharmaCat Project is divided into **2 sections**:
-
-
-...The PharmaCat Android App (based on PharmaCat REST API) created by [Prince Singh](https://github.com/princesinghr1)
 
 *To setup the Web Application along with API server do:*
 ```
